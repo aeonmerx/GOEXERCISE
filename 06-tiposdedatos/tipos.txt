@@ -1,0 +1,22 @@
+NÙMEROS ENTEROS
+uint8 -8bits (0 a 255)
+uint16 -15bits (0 a 65535)
+uint32 -32bits (0 a 4294967295)
+uint64 -64bits (0 a 18446744073709551615)
+
+int8 -8bits (-128 a 127)
+int16 -16bits (-32768 a 32767)
+int32 -32bits (-2147483648 a 2147483647)
+int64 -64bits (-9223372036854775808 a 9223372036854775807)
+
+byte -8bits (0 a 255)
+rune -32bits (-2147483648 a 2147483647)
+uint -32 o 64 bits
+int -32 o 64 bits
+
+NÙMEROS FLOTANTES
+Float32 
+Float64 
+
+complex64 
+complex128 
